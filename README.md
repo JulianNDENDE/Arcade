@@ -8,6 +8,7 @@
 |/     \||/   \__/(_______/|/     \|(______/ (_______/
 ```
 
+#### Compilation information
 ```
 make && ./arcade lib/[lib_name].so
 ```
