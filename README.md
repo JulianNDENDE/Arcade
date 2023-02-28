@@ -8,6 +8,12 @@
 |/     \||/   \__/(_______/|/     \|(______/ (_______/
 ```
 
+### Prerequisites :
+- SFML
+- SDL2
+- Ncurses
+
+
 #### Compilation information
 ```
 make && ./arcade lib/[lib_name].so
